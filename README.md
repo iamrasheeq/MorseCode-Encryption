@@ -3,17 +3,7 @@ Morse code is cool since the beginning. This program will encrypt your morse cod
 
 morseC2.cpp = Use '.'(dot) for dot and '-'(dash) for dash. 
 
-morse.cpp = Use '*'(star) for dot and '-'(hyphen) for dash. 
-
-
-# Output morseC2.cpp
-
-Enter Morse Code: ... ___ ...
-
-Encrypted Message: SOS
-
-
-# Output morse.cpp
+# Output 
 
 Enter Morse Code: *** --- ***
 
