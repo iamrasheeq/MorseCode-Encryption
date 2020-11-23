@@ -5,7 +5,7 @@ morseC2.cpp = Use '.'(dot) for dot and '-'(dash) for dash.
 
 # Output 
 
-Enter Morse Code: *** --- ***
+Enter Morse Code: ... --- ...
 
 Encrypted Message: SOS
 
